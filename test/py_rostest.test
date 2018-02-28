@@ -1,0 +1,3 @@
+<launch>
+  <test test-name="py_rostest" pkg="ros_testing_experiments" type="test.py" />
+</launch>
